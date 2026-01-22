@@ -1,0 +1,32 @@
+# Core
+Django
+djangorestframework
+
+# Authentication
+djangorestframework-simplejwt
+
+# Database (PostgreSQL)
+psycopg2-binary
+
+# For development / optional
+python-dotenv
+django-cors-headers
+
+# Validation & Utilities
+Pillow  # If handling images
+
+
+# Optional: for async / advanced queries
+channels
+
+# Linting / formatting (dev only)
+black
+flake8
+isort
+django-cors-headers
+
+bcrypt
+simplejwt
+
+mysqlclient
+reportlab
